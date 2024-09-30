@@ -19,6 +19,9 @@ Homework 1
 - [ ] login.html home redirects to index.html.
 - [ ] login.html "login" button redirects to index.html.
 - [ ] A user should not be allowed to submit the login form content, if she/he did not fill in both fields (e.g., Email and Username).
+- [ ] Use Flexbox to arrange the layout of your pages to fit both a screen and a cellphone
+
+
 ### CSS
 - [x] Use a class selector
 - [x] Use an ID selector
@@ -26,4 +29,7 @@ Homework 1
 - [x] Use a Descendant Selector (e.g., div p)
 - [x] Use a Child Selector (e.g., div > p)
 - [ ] Use an Adjacent Sibling Selector (e.g., div + p)
-- [ ] Use a General Sibling Selector (e.g., div ~ p) 
+- [ ] Use a General Sibling Selector (e.g., div ~ p)
+
+
+- [ ] Deploy your project as a GitHub page site
