@@ -19,7 +19,7 @@ Homework 1
 - [ ] login.html home redirects to index.html.
 - [ ] login.html "login" button redirects to index.html.
 - [ ] A user should not be allowed to submit the login form content, if she/he did not fill in both fields (e.g., Email and Username).
-#Css
+# CSS
 - [ ] Use a class selector
 - [ ] Use an ID selector
 - [ ] Use a pseudo-element OR pseudo-class
