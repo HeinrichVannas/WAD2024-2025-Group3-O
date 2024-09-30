@@ -3,6 +3,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 0;
 }
 
 a, p{
@@ -14,7 +15,7 @@ a, p{
 .navBar{
     display: flex;
     top: 0;
-    background: #696969;
+    background: #545454;
     border-radius: 15px;
     position: sticky;
     justify-content: space-between;
@@ -96,13 +97,12 @@ a, p{
 
 footer {
     margin-top: 5px;
-    border-radius: 10px;
     background-color: #696969;
     width: 100%;
 }
 
 footer p{
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 
@@ -120,9 +120,12 @@ footer p{
 @media(max-width: 500px){
     .navBar{
         margin: 0;
-        width: 97%;
+        width: 100%;
     }
     .posts{
         width: 90%;
+    }
+    footer p{
+        font-size: 0.7rem;
     }
 }
