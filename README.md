@@ -10,10 +10,10 @@ Homework 1
 - [ ] Index.html should contain atleast 5 posts.
 - [x] Index.html has a navigation bar.
 - [x] Index.html has a footer.
-- [ ] addPost.html has navigation bar.
-- [ ] addPost.html has same adding post area as in instructions.
-- [ ] addPost.html home redirects to index.html.
-- [ ] addPost "create post" button redirects to index.html.
+- [x] addPost.html has navigation bar.
+- [x] addPost.html has same adding post area as in instructions.
+- [x] addPost.html home redirects to index.html.
+- [x] addPost "create post" button redirects to index.html.
 - [ ] login.html has navigation bar.
 - [ ] login.html has same login area as in instructions.
 - [ ] login.html home redirects to index.html.
