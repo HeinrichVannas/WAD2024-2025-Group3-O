@@ -27,7 +27,7 @@ a, p{
 
 .links > a{
     font-size: 1.5rem;
-    padding: 5%;
+    padding: 10px;
     cursor: pointer;
     border-radius: 15px;
     margin: 2% 0 2% 2%;
