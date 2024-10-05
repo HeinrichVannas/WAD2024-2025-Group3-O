@@ -2,9 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/index.css">
     <title>addPost</title>
 </head>
 <body>
-
+    <div class="navBar">
+        <div class="links">
+            <a href="index.html">Home</a>
+        </div>
+        <img src="images/default_profile.jpg" alt="default profile image"/>
+    </div>
+    <div class="posts">
+        <form class="postForm" action="index.html">
+            <div class="postFormInput">
+                <label for="postBody">Post body:</label>
+                <textarea id="postBody" placeholder="text area" cols="60" rows="8"></textarea>
+            </div>
+            <div class="postFormInput">
+                <label for="inputFile">Select file</label>
+                <input type="file" id="inputFile" title="">
+            </div>
+            <div class="postFormInput">
+                <button type="submit">Create post</button>
+            </div>
+        </form>
+    </div>
+    
 </body>
 </html>
