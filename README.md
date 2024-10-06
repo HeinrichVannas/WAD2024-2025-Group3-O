@@ -32,4 +32,4 @@ Homework 1
 - [ ] Use a General Sibling Selector (e.g., div ~ p)
 
 
-- [ ] Deploy your project as a GitHub page site
+- [x] Deploy your project as a GitHub page site
