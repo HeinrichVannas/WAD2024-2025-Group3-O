@@ -7,7 +7,7 @@ Homework 1
 - [x] Create index.html, addPost.html, login.html
 - [x] In index.html home and addPage redirect to corresponding webpages.
 - [x] Home and addPage change their background on hover.
-- [ ] Index.html should contain atleast 5 posts.
+- [x] Index.html should contain atleast 5 posts.
 - [x] Index.html has a navigation bar.
 - [x] Index.html has a footer.
 - [x] addPost.html has navigation bar.
@@ -19,12 +19,12 @@ Homework 1
 - [ ] login.html home redirects to index.html.
 - [ ] login.html "login" button redirects to index.html.
 - [ ] A user should not be allowed to submit the login form content, if she/he did not fill in both fields (e.g., Email and Username).
-- [ ] Use Flexbox to arrange the layout of your pages to fit both a screen and a cellphone
+- [x] Use Flexbox to arrange the layout of your pages to fit both a screen and a cellphone
 
 
 ### CSS
 - [x] Use a class selector
-- [x] Use an ID selector
+- [ ] Use an ID selector
 - [x] Use a pseudo-element OR pseudo-class
 - [x] Use a Descendant Selector (e.g., div p)
 - [x] Use a Child Selector (e.g., div > p)
