@@ -70,7 +70,7 @@ button {
     padding: 5px 10px;
 }
 
-.posts{
+#posts{
     display: flex;
     flex-direction: column;
     align-self: center;
@@ -87,7 +87,7 @@ button {
     padding: 10px;
 }
 
-.post > img{
+.postHead + img{
     margin: 1%;
 }
 
@@ -110,7 +110,7 @@ button {
     margin-top: 1%;
 }
 
-.postHead p{
+.postHead ~ p{
     font-size: 1.2rem;
 }
 
@@ -136,7 +136,7 @@ footer p{
         width: 90%;
         margin: 2%;
     }
-    .posts{
+    #posts{
         width: 60%;
     }
 
@@ -147,7 +147,7 @@ footer p{
         margin: 0;
         width: 100%;
     }
-    .posts{
+    #posts{
         width: 90%;
     }
     footer p{
