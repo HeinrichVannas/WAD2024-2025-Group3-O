@@ -14,19 +14,19 @@ Homework 1
 - [x] addPost.html has same adding post area as in instructions.
 - [x] addPost.html home redirects to index.html.
 - [x] addPost "create post" button redirects to index.html.
-- [ ] login.html has navigation bar.
-- [ ] login.html has same login area as in instructions.
-- [ ] login.html home redirects to index.html.
-- [ ] login.html "login" button redirects to index.html.
-- [ ] A user should not be allowed to submit the login form content, if she/he did not fill in both fields (e.g., Email and Username).
+- [x] login.html has navigation bar.
+- [x] login.html has same login area as in instructions.
+- [x] login.html home redirects to index.html.
+- [x] login.html "login" button redirects to index.html.
+- [x] A user should not be allowed to submit the login form content, if she/he did not fill in both fields (e.g., Email and Username).
 - [x] Use Flexbox to arrange the layout of your pages to fit both a screen and a cellphone
 - [x] Deploy your project as a GitHub page site
 
 ### CSS
 - [x] Use a class selector
-- [ ] Use an ID selector
+- [x] Use an ID selector
 - [x] Use a pseudo-element OR pseudo-class
 - [x] Use a Descendant Selector (e.g., div p)
 - [x] Use a Child Selector (e.g., div > p)
-- [ ] Use an Adjacent Sibling Selector (e.g., div + p)
-- [ ] Use a General Sibling Selector (e.g., div ~ p)
+- [x] Use an Adjacent Sibling Selector (e.g., div + p)
+- [x] Use a General Sibling Selector (e.g., div ~ p)
