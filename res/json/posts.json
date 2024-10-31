@@ -1,0 +1,27 @@
+[
+  {
+    "message": "Look at this post.",
+    "postDate": "oct 22, 2024",
+    "image": "images/tartu2024.jpg"
+  },
+  {
+    "message": "This is a post message",
+    "postDate": "oct 22, 2024",
+    "image": null
+  },
+  {
+    "message": "We need to make 2 more posts.",
+    "postDate": "oct 22, 2024",
+    "image": null
+  },
+  {
+    "message": "Hey I'm at Delta rn.",
+    "postDate": "oct 24, 2024",
+    "image": "images/delta.jpeg"
+  },
+  {
+    "message": "Be right there!",
+    "postDate": "oct 24, 2024",
+    "image": null
+  }
+]
