@@ -3,7 +3,7 @@ window.onload = function() {
     
     //fetch('https://api.jsonsilo.com/demo/2c479ed1-7c9c-464f-9967-c7a919108dc6')
 
-    fetch('../res/json/posts.json')
+    fetch('../WAD2024-2025-Group3-O/res/json/posts.json')
         .then((response) => response.json())
         .then(json => {
             console.log(json);
