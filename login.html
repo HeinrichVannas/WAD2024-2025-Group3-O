@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <script type="text/javascript" src="src/js/dropdown.js"></script>
     <link rel="stylesheet" href="res/css/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
@@ -11,9 +12,14 @@
         <div class="links">
             <a href="index.html">Home</a>
         </div>
-        <a href="login.html">
-            <img src="images/default_profile.jpg" alt="default profile image"/>
-        </a>
+        <div class="profileIcon">
+            <button onclick="showDropdown()" class="dropButton"><img src="images/default_profile.jpg" /></button>
+            <div id="dropdown" class="dropdown-content">
+                <a>John Doe</a>
+                <a>john.doe@ut.ee</a>
+                <a href="login.html">logout</a>
+            </div>
+        </div>
     </div>
     <div class="login_cont">
         <h2 class=>Welcome to PostIT</h2>
