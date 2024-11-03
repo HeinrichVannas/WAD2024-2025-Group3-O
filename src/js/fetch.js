@@ -17,8 +17,8 @@ window.onload = function() {
                 let defaultPic = document.createElement("img");
                 let likePic = document.createElement("img");
 
-                defaultPic.src = "../../images/default_profile.jpg";
-                likePic.src = "../../images/likeIcon.png";
+                defaultPic.src = "../WAD2024-2025-Group3-O/images/default_profile.jpg";
+                likePic.src = "../WAD2024-2025-Group3-O/images/likeIcon.png";
                 likePic.className = "like"
 
                 post.className = "post";
